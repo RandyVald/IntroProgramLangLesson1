@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkSpace\\GB\\Знакомство с языками программирования\\Project\\01_CSHARP\\lesson1\\Task2\\Task2.csproj": {}
+    "D:\\WorkSpace\\GB\\Знакомство с языками программирования\\Project\\01_CSHARP\\lesson1\\task2\\Task2.csproj": {}
   },
   "projects": {
-    "D:\\WorkSpace\\GB\\Знакомство с языками программирования\\Project\\01_CSHARP\\lesson1\\Task2\\Task2.csproj": {
+    "D:\\WorkSpace\\GB\\Знакомство с языками программирования\\Project\\01_CSHARP\\lesson1\\task2\\Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkSpace\\GB\\Знакомство с языками программирования\\Project\\01_CSHARP\\lesson1\\Task2\\Task2.csproj",
+        "projectUniqueName": "D:\\WorkSpace\\GB\\Знакомство с языками программирования\\Project\\01_CSHARP\\lesson1\\task2\\Task2.csproj",
         "projectName": "Task2",
-        "projectPath": "D:\\WorkSpace\\GB\\Знакомство с языками программирования\\Project\\01_CSHARP\\lesson1\\Task2\\Task2.csproj",
+        "projectPath": "D:\\WorkSpace\\GB\\Знакомство с языками программирования\\Project\\01_CSHARP\\lesson1\\task2\\Task2.csproj",
         "packagesPath": "C:\\Users\\Radio\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkSpace\\GB\\Знакомство с языками программирования\\Project\\01_CSHARP\\lesson1\\Task2\\obj\\",
+        "outputPath": "D:\\WorkSpace\\GB\\Знакомство с языками программирования\\Project\\01_CSHARP\\lesson1\\task2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Radio\\AppData\\Roaming\\NuGet\\NuGet.Config"
